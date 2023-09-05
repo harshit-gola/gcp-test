@@ -1,2 +1,2 @@
 # gcp-test
-Trigger GCF testing
+Trigger GCF testing version 1
